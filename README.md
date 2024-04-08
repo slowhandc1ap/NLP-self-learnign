@@ -1,2 +1,3 @@
 # NLP-self-learnign
-for partic and understand NLP and hopfuly to crate modlel of NLP 
+
+For participants to understand Natural Language Processing (NLP) and hopefully to create models of NLP.
